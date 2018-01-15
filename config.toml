@@ -1,5 +1,5 @@
 title = "Kirill Danko Blog"
-baseURL = "http://192.168.0.100"
+baseURL = "http://https://kirilldanko.github.io/KirillDankogithub.oi/"
 publichDir = "docs"
 languageCode = "ru-ru"
 theme = "kube"
