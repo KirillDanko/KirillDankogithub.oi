@@ -1,5 +1,6 @@
 title = "Kirill Danko Blog"
 baseURL = "http://192.168.0.100"
+publichDir = "docs"
 languageCode = "ru-ru"
 theme = "kube"
 themesDir = "../.."
