@@ -1,11 +1,9 @@
-baseurl = "https://KirillDanko.github.io/KirillDankogithub.oi"
-themesDir = "themes"
+baseurl = "https://username.github.io"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
-title = "KirillDanko Blog"
+title = "Beautiful Hugo"
 theme = "beautifulhugo"
 metaDataFormat = "yaml"
-publishDir = "docs"
 pygmentsStyle = "trac"
 pygmentsUseClasses = true
 pygmentsCodeFences = true
